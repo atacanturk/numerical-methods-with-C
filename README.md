@@ -1,5 +1,5 @@
 ---
-# Numerical Analysis Final Project
+# Numerical Analysis with C 
 
 This project is a console application written in C, containing fundamental algorithms learned in a numerical analysis course. It provides an interactive menu for the user to explore and apply various numerical methods.
 
